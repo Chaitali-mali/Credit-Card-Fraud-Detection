@@ -1,75 +1,68 @@
 # Credit-Card-Fraud-Detection
-🚨 Credit Card Fraud Detection Dashboard – Excel Project 📊💳
+---
 
-I’m excited to share my latest data analytics project focused on detecting credit card fraud using real-world transaction data! 💡
+🚨 **Credit Card Fraud Detection Dashboard – Excel Project** 📊💳
 
-Introduction :
+I’m excited to share my latest **Data Analytics** project focused on detecting **credit card fraud** using real-world transaction data! 💡
 
-Credit card fraud is a growing financial threat globally.
-Data analytics can help detect fraudulent transactions in real-time.
-Objective: Analyze transaction patterns to identify fraud using Excel-based dashboard.
+---
 
-Dataset Overview :
+🔍 **Project Introduction:**
 
- Rows: 284,807 transactions
+Credit card fraud poses a significant global financial threat. Using **Microsoft Excel**, I created an interactive dashboard to analyze transaction patterns and identify fraudulent behavior — *in a clear and insightful way*.
 
-Features:
+---
 
-1 Time – Seconds since first transaction
-2 V1 to V28 – PCA-transformed features (anonymized)
-3 Amount – Transaction amount in USD
-4 Class – 0 = Normal, 1 = Fraud
+📊 **Dataset Overview:**
 
- Data Fields Explained :
+* **Total Records:** 284,807 transactions
+* **Features:**
 
- | Feature | Description                                    |
-| ------- | ---------------------------------------------- |
-| Time    | Elapsed time in seconds                        |
-| V1-V28  | PCA components – sensitive features anonymized |
-| Amount  | Transaction value                              |
-| Class   | Fraud indicator (0 = Legit, 1 = Fraud)         |
+  * `Time` – Seconds since the first transaction
+  * `V1–V28` – PCA-transformed (anonymized) features
+  * `Amount` – Transaction value in USD
+  * `Class` – 0 (Legit) | 1 (Fraud)
 
-Dashboard Insights :
+---
 
-1 Interactive filters for Time and Amount
-2 Fraud detection through aggregated values
-3 PCA component insights (e.g., V1 vs. Class)
-4 Fraud count and total amounts visualized
+📌 **Dashboard Highlights:**
 
-Key Visualizations :
+✅ Real-time fraud filtering by **Time** and **Amount**
+✅ **Pie Chart**: Transaction Amount Breakdown
+✅ **Bar Chart**: V1 Feature vs. Class
+✅ **3D Column Chart**: Time vs. V4 Analysis
+✅ Fraud detection using pivot tables, slicers & charts
+✅ Trend insights between normal and fraudulent transactions
 
-1 Pie Chart: Transaction Amount Breakdown
-2 Bar Chart: V1 Feature vs. Class Label
-3 3D Column Chart: Time vs. V4 Analysis
+---
 
-🔍 What I Did:
+📈 **Key Insights:**
 
-1 Built an interactive Excel dashboard.
-2 Used pivot tables, slicers & visualizations.
-3 Analyzed time, transaction amount & PCA-transformed features (V1–V28).
-4 Identified trends between normal and fraudulent transactions.
+* Fraud transactions often show distinct **time** and **amount** patterns
+* PCA components (V1–V28) reveal valuable anomaly behavior
+* The fraud class (1) is a **minority**, but high-risk group
 
-📈 Key Highlights:
+---
 
-1 Real-time fraud filtering by amount & time
-2 Class distribution: Fraud (1) vs. Normal (0)
-3 Visual insights into high-risk PCA components
+🧠 **Recommendations:**
 
-Data Source: Credit Card Fraud Dataset
+* Monitor **high-value** and **off-hour** transactions
+* Combine **PCA insights** with ML models for better accuracy
+* Use dashboards to support **real-time fraud detection**
 
-Recommendations :
+---
 
-1 Use real-time filters to flag potential fraud
-2 Monitor high-amount and unusual time patterns
-3 Combine PCA components with machine learning for better accuracy
+🛠️ **Tools Used:**
+Microsoft Excel | Pivot Tables | Charts | Data Filters | Slicers
 
+📁 **Dataset:** Anonymized Credit Card Transactions
+🔗 **Project GitHub:** [github.com/Chaitali-mali/Credit-Card-Fraud-Detection](https://github.com/Chaitali-mali/Credit-Card-Fraud-Detection)
 
-🛠️ Tools Used: Microsoft Excel, Pivot Charts, Data Filters
+---
 
-📁 Dataset: Credit Card Transactions (Anonymized)
+Let’s connect and talk more about **data analytics**, **fraud detection**, and **Excel-based insights**! 📬
 
-🔗 [https://github.com/Chaitali-mali/Credit-Card-Fraud-Detection]
+\#DataAnalytics #ExcelDashboard #CreditCardFraud #FraudDetection #PCA #DataVisualization #ExcelProject #MachineLearning #DataScience #LinkedInLearning #ChaitaliProjects
 
-Looking forward to your feedback! Let’s connect and talk more about data analytics and fraud detection. 👇
+---
 
-#DataAnalytics #ExcelDashboard #CreditCardFraud #DataVisualization #FraudDetection #ExcelProject #MachineLearning #PCA #DataScience #LinkedInLearning
