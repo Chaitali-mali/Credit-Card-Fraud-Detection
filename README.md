@@ -1,5 +1,4 @@
 # Credit-Card-Fraud-Detection
----
 
 🚨 **Credit Card Fraud Detection Dashboard – Excel Project** 📊💳
 
@@ -27,12 +26,12 @@ Credit card fraud poses a significant global financial threat. Using **Microsoft
 
 📌 **Dashboard Highlights:**
 
-✅ Real-time fraud filtering by **Time** and **Amount**
-✅ **Pie Chart**: Transaction Amount Breakdown
-✅ **Bar Chart**: V1 Feature vs. Class
-✅ **3D Column Chart**: Time vs. V4 Analysis
-✅ Fraud detection using pivot tables, slicers & charts
-✅ Trend insights between normal and fraudulent transactions
+* Real-time fraud filtering by **Time** and **Amount**
+* **Pie Chart**: Transaction Amount Breakdown
+* **Bar Chart**: V1 Feature vs. Class
+* **3D Column Chart**: Time vs. V4 Analysis
+* Fraud detection using pivot tables, slicers & charts
+* Trend insights between normal and fraudulent transactions
 
 ---
 
@@ -64,5 +63,5 @@ Let’s connect and talk more about **data analytics**, **fraud detection**, and
 
 \#DataAnalytics #ExcelDashboard #CreditCardFraud #FraudDetection #PCA #DataVisualization #ExcelProject #MachineLearning #DataScience #LinkedInLearning #ChaitaliProjects
 
----
+
 
