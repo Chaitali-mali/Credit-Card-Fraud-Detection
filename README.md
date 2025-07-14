@@ -10,6 +10,7 @@ Data analytics can help detect fraudulent transactions in real-time.
 Objective: Analyze transaction patterns to identify fraud using Excel-based dashboard.
 
 Dataset Overview :
+
  Rows: 284,807 transactions
 
 Features:
@@ -72,4 +73,3 @@ Recommendations :
 Looking forward to your feedback! Let’s connect and talk more about data analytics and fraud detection. 👇
 
 #DataAnalytics #ExcelDashboard #CreditCardFraud #DataVisualization #FraudDetection #ExcelProject #MachineLearning #PCA #DataScience #LinkedInLearning
-
