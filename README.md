@@ -4,14 +4,15 @@
 I’m excited to share my latest data analytics project focused on detecting credit card fraud using real-world transaction data! 💡
 
 🔍 What I Did:
-✔️ Built an interactive Excel dashboard
-✔️ Used pivot tables, slicers & visualizations
-✔️ Analyzed time, transaction amount & PCA-transformed features (V1–V28)
-✔️ Identified trends between normal and fraudulent transactions
+
+✔️ Built an interactive Excel dashboard.
+✔️ Used pivot tables, slicers & visualizations.
+✔️ Analyzed time, transaction amount & PCA-transformed features (V1–V28).
+✔️ Identified trends between normal and fraudulent transactions.
 
 📈 Key Highlights:
 
-Real-time fraud filtering by amount & time
+Real-time fraud filtering by amount & time 
 
 Class distribution: Fraud (1) vs. Normal (0)
 
